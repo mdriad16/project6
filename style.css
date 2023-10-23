@@ -1,0 +1,85 @@
+
+
+
+/*
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One:ital@1&family=Inter:wght@500;800&family=Kanit:ital,wght@1,900&family=Poppins:wght@100;200&family=Roboto:ital,wght@1,900&display=swap');
+
+
+
+
+
+body{
+ 
+  font-family: 'Alumni Sans Collegiate One', sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto', sans-serif;
+
+}
+*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One:ital@1&family=Dancing+Script&display=swap');
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Hentaigana+Akari&display=swap');
+
+.navbar-brand{
+  font-family: 'Yuji Hentaigana Akari', cursive;
+}
+
+
+h1{
+  
+  
+ 
+ 
+  
+  
+  font-family: 'Alumni Sans Collegiate One', sans-serif;
+  
+
+  
+  
+
+
+
+
+  
+ 
+ 
+ 
+ 
+ 
+
+
+}
+
+
+
+
+
+
+svg{
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.nav-link{
+    color: rgb(77, 87, 77);
+    font-family: 'Dancing Script', cursive;
+   
+}
+
+
+.section2{
+    margin-top: 300px;
+}
+
+i{
+  color: white;
+  margin-top: 20px;
+}
